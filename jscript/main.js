@@ -205,3 +205,28 @@
 //     }
 // });
 // console.log(positive);
+
+// 28.
+// let arr = ["ahmadjon", "banana", "apple", "hello", "world"];
+// let res = arr.map(function(value) {
+//     return value.toUpperCase();
+// });
+// console.log(res);
+
+// 29.
+// let arr = [1, 5, 9, 10, 20, 100];
+// let res = arr.map(function(value) {
+//     return Math.sqrt(value);
+// });
+// console.log(res);
+
+// Math.sqrt //...
+// " JavaScriptda Math.sqrt funksiyasi berilgan sonning kvadrat ildizini hisoblash uchun ishlatiladi."
+// " Math.sqrt funktsiyasi o'rnatilgan Math ob'ektining bir qismi bo'lib, u turli matematik funktsiyalar va doimiylarni o'z ichiga oladi."
+
+// 30.
+// let arr = [1, 5, 9, 19, 25, 33, 100, 250];
+// let res = arr.map(function(value) {
+//     return value + 5;
+// });
+// console.log(res);
