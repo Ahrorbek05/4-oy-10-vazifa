@@ -2,7 +2,7 @@
 // let arr = [2, 6, 9, 12];
 // let arr1 = [];
 // arr.forEach(function (value) { 
-//     return value ** 2;
+//     arr1.push(value ** 2);
 // });
 // console.log(arr1);
 
